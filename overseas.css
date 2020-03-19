@@ -18,11 +18,13 @@ header{
     top:0;
     width:960px;
 }
+header a{
+    display:flex;   
+}
 header a:hover{
     text-decoration:none;
 }
 .header-left{ 
-    display:flex;
     width:50%;
 }
 .header-logo{
