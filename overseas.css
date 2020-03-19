@@ -23,6 +23,7 @@ header a:hover{
 }
 .header-left{ 
     display:flex;
+    width:50%;
 }
 .header-logo{
     height:88.3px;
