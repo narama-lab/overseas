@@ -18,6 +18,9 @@ header{
     top:0;
     width:960px;
 }
+header a:hover{
+    text-decoration:none;
+}
 .header-left{ 
     display:flex;
 }
